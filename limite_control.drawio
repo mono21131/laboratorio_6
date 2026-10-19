@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="_Iq4Fp-Ni8XjEVF2micR">
+    <mxGraphModel dx="1414" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="njCzF0u-DseI67fXL6p8-1" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="fondos" vertex="1">
+          <mxGeometry height="80" width="70" x="500" y="123" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-2" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="gestionar hipoteca" vertex="1">
+          <mxGeometry height="80" width="100" x="211" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-3" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="gestionar inversion" vertex="1">
+          <mxGeometry height="80" width="100" x="213" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-5" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="hipotecas" vertex="1">
+          <mxGeometry height="80" width="70" x="494" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-6" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="inversiones" vertex="1">
+          <mxGeometry height="80" width="70" x="494" y="306" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-7" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="reportes" vertex="1">
+          <mxGeometry height="80" width="70" x="494" y="393" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-8" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="ingresar notas" vertex="1">
+          <mxGeometry height="80" width="100" x="211" y="373" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-9" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="otorgar beca" vertex="1">
+          <mxGeometry height="80" width="100" x="211" y="473" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-10" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="registro aportes" vertex="1">
+          <mxGeometry height="80" width="100" x="211" y="573" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-11" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="aportes" vertex="1">
+          <mxGeometry height="80" width="70" x="494" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-12" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="becas credito" vertex="1">
+          <mxGeometry height="80" width="70" x="494" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-13" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="evaluación de notas" vertex="1">
+          <mxGeometry height="80" width="70" x="494" y="649" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
