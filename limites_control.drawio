@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="_Iq4Fp-Ni8XjEVF2micR">
+    <mxGraphModel dx="1178" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="njCzF0u-DseI67fXL6p8-1" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="fondos" vertex="1">
+          <mxGeometry height="80" width="70" x="489" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-2" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="gestionar hipoteca" vertex="1">
+          <mxGeometry height="80" width="100" x="211" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-3" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="gestionar inversion" vertex="1">
+          <mxGeometry height="80" width="100" x="213" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-5" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="hipotecas" vertex="1">
+          <mxGeometry height="80" width="70" x="483" y="286" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-6" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="inversiones" vertex="1">
+          <mxGeometry height="80" width="70" x="483" y="373" as="geometry" />
+        </mxCell>
+        <mxCell id="njCzF0u-DseI67fXL6p8-7" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="reportes" vertex="1">
+          <mxGeometry height="80" width="70" x="483" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
